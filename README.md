@@ -32,7 +32,6 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/yourusername/your-repo-name.git
 
-   ```sh
 2. Navigate to your project dir
     ```sh
     cd your-repo
