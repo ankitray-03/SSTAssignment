@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple steps.
 4. Set up MySQL database:
 * Create a MySQL database.
 * Make a .env file in root folder and save MySQL conenction credentials.
-* Update the MySQL connection details in the backend (server/db/connect.js) file.
+* Update the MySQL connection details in the backend (api/db/connect.js) file.
 
 5. Start the server
     * In root folder run this command to start the server.
